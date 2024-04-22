@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<languageList>
+		<language description="English" lang="ENG" />
+		<language description="Chinese" lang="CN" />
+		<language description="Korean" lang="KR" />
+	</languageList>
+	<key value="sms">
+		<val lang="ENG">Student Management System</val>
+		<val lang="CN">学生管理系统</val>
+		<val lang="KR">학생관리시스템</val>
+	</key>
+	<key value="connectText">
+		<val lang="ENG">Connect to a database:</val>
+		<val lang="CN">连接到数据库:</val>
+		<val lang="KR">데이터베이스에 연결:</val>
+	</key>
+	<key value="loginText">
+		<val lang="ENG">Login</val>
+		<val lang="CN">登陆</val>
+		<val lang="KR">로그인</val>
+	</key>
+	<key value="passwordText">
+		<val lang="ENG">Password:</val>
+		<val lang="CN">密码:</val>
+		<val lang="KR">암호:</val>
+	</key>
+	<key value="databaseUrlText">
+		<val lang="ENG">Database URL:</val>
+		<val lang="CN">数据库URL:</val>
+		<val lang="KR">데이터베이스 URL:</val>
+	</key>
+	<key value="connectButton">
+		<val lang="ENG">Connect</val>
+		<val lang="CN">连接</val>
+		<val lang="KR">연결</val>
+	</key>
+	<key value="erKRr">
+		<val lang="ENG">Error</val>
+		<val lang="CN">错误</val>
+		<val lang="KR">오류</val>
+	</key>
+	<key value="success">
+		<val lang="ENG">Success</val>
+		<val lang="CN">成功</val>
+		<val lang="KR">성공</val>
+	</key>
+	<key value="fillEmptyFields">
+		<val lang="ENG">Please, fill in all the empty fields!</val>
+		<val lang="CN">请填写所有空白字段！</val>
+		<val lang="KR">모든 빈 칸을 채워주세요!</val>
+	</key>
+	<key value="connectionEstablished">
+		<val lang="ENG">Connection with the database has been successfully established! </val>
+		<val lang="CN">成功建立与数据库的连接！</val>
+		<val lang="KR">데이터베이스와의 연결이 성공적으로 설정되었습니다!</val>
+	</key>
+	<key value="connectionNotEstablished">
+		<val lang="ENG">Connection with the database hasn't been established</val>
+		<val lang="CN">连接到数据库失败</val>
+		<val lang="KR">데이터베이스와의 연결이 설정되지 않았습니다</val>
+	</key>
+	<key value="changeLanguage">
+		<val lang="ENG">Change language</val>
+		<val lang="CN">更改语言</val>
+		<val lang="KR">언어 변경</val>
+	</key>
+	<key value="selectLanguage">
+		<val lang="ENG">Select a language</val>
+		<val lang="CN">选择语言</val>
+		<val lang="KR">언어 선택</val>
+	</key>
+	<key value="ID">
+		<val lang="ENG">ID</val>
+		<val lang="CN">ID</val>
+		<val lang="KR">신분증</val>
+	</key>
+	<key value="name">
+		<val lang="ENG">Name</val>
+		<val lang="CN">名称</val>
+		<val lang="KR">이름</val>
+	</key>
+	<key value="surname">
+		<val lang="ENG">Surname</val>
+		<val lang="CN">姓</val>
+		<val lang="KR">성</val>
+	</key>
+	<key value="age">
+		<val lang="ENG">Age</val>
+		<val lang="CN">年龄</val>
+		<val lang="KR">나이</val>
+	</key>
+	<key value="gender">
+		<val lang="ENG">Gender</val>
+		<val lang="CN">性别</val>
+		<val lang="KR">성별</val>
+	</key>
+	<key value="course">
+		<val lang="ENG">Course</val>
+		<val lang="CN">课程</val>
+		<val lang="KR">코스</val>
+	</key>
+	<key value="started">
+		<val lang="ENG">Started</val>
+		<val lang="CN">已开始</val>
+		<val lang="KR">시작됨</val>
+	</key>
+	<key value="graduation">
+		<val lang="ENG">Graduation</val>
+		<val lang="CN">毕业</val>
+		<val lang="KR">졸업</val>
+	</key>
+	<key value="add">
+		<val lang="ENG">Add</val>
+		<val lang="CN">添加</val>
+		<val lang="KR">추가</val>
+	</key>
+	<key value="update">
+		<val lang="ENG">Update</val>
+		<val lang="CN">更新</val>
+		<val lang="KR">갱신</val>
+	</key>
+	<key value="delete">
+		<val lang="ENG">Delete</val>
+		<val lang="CN">删除</val>
+		<val lang="KR">삭제</val>
+	</key>
+	<key value="disconnect">
+		<val lang="ENG">Disconnect</val>
+		<val lang="CN">断开连接</val>
+		<val lang="KR">연결 끊기</val>
+	</key>
+	<key value="exit">
+		<val lang="ENG">Exit</val>
+		<val lang="CN">退出</val>
+		<val lang="KR">종료</val>
+	</key>
+	<key value="yearFormat">
+		<val lang="ENG">YYYY-MM-DD</val>
+		<val lang="CN">YYYY年MM月DD日</val>
+		<val lang="KR">YYYY-LL-DD</val>
+	</key>
+	<key value="addFaculty">
+		<val lang="ENG">Add faculty</val>
+		<val lang="CN">添加院系</val>
+		<val lang="KR">학과 추가</val>
+	</key>
+	<key value="addCourse">
+		<val lang="ENG">Add course</val>
+		<val lang="CN">添加课程</val>
+		<val lang="KR">코스 추가</val>
+	</key>
+	<key value="deleteFaculty">
+		<val lang="ENG">Delete faculty</val>
+		<val lang="CN">删除院系</val>
+		<val lang="KR">학과 삭제</val>
+	</key>
+	<key value="deleteCourse">
+		<val lang="ENG">Delete course</val>
+		<val lang="CN">删除课程</val>
+		<val lang="KR">코스 삭제</val>
+	</key>
+	<key value="checkInput">
+		<val lang="ENG">An error has occurred! Check your input one more time!</val>
+		<val lang="CN">发生错误！请再次检查您的输入！</val>
+		<val lang="KR">오류가 발생했습니다! 입력을 다시 한번 확인하세요!</val>
+	</key>
+	<key value="noStudentSelected">
+		<val lang="ENG">No student has been selected!</val>
+		<val lang="CN">没有选择学生！</val>
+		<val lang="KR">선택된 학생이 없습니다!</val>
+	</key>
+	<key value="warningDelete">
+		<val lang="ENG">Deleting a student from the table may result in losing important information. Are you sure?</val>
+		<val lang="CN">从表中删除学生可能会导致丢失重要信息。您确定吗？</val>
+		<val lang="KR">테이블에서 학생을 삭제하면 중요한 정보가 손실될 수 있습니다. 정말로 삭제하시겠습니까?</val>
+	</key>
+	<key value="studentSuccessfullyDeleted">
+		<val lang="ENG">Student successfully deleted!</val>
+		<val lang="CN">成功删除学生！</val>
+		<val lang="KR">학생이 성공적으로 삭제되었습니다!</val>
+	</key>
+	<key value="somethingWrongInput">
+		<val lang="ENG">Something went wrong! Check your credentials!</val>
+		<val lang="CN">出现错误！检查您的凭据！</val>
+		<val lang="KR">문제가 발생했습니다! 자격 증명을 확인하세요!</val>
+	</key>
+	<key value="somethingWrongUnexpected">
+		<val lang="ENG">Something went wrong! Try restarting the application!</val>
+		<val lang="CN">出现错误！尝试重新启动应用程序！</val>
+		<val lang="KR">문제가 발생했습니다! 응용 프로그램을 다시 시작해보세요!</val>
+	</key>
+	<key value="somethingWrongTryAgain">
+		<val lang="ENG">Something went wrong! Try Again!</val>
+		<val lang="CN">出现错误！请重试！</val>
+		<val lang="KR">문제가 발생했습니다! 다시 시도하세요!</val>
+	</key>
+	<key value="cannotAddStudent">
+		<val lang="ENG">You can't add a student yet! Add a faculty and a course first!</val>
+		<val lang="CN">您还不能添加学生！先添加一个院系和一个课程！</val>
+		<val lang="KR">아직 학생을 추가할 수 없습니다! 먼저 학과와 코스를 추가하세요!</val>
+	</key>
+	<key value="dateFormatError">
+		<val lang="ENG">Please type a correct data according to the format YYYY-MM-DD!</val>
+		<val lang="CN">请按照YYYY-MM-DD格式输入正确的数据！</val>
+		<val lang="KR">형식에 맞게 YYYY-MM-DD로 올바른 데이터를 입력하세요!</val>
+	</key>
+	<key value="studentSuccessfullyAdded">
+		<val lang="ENG">The student has been added successfully!</val>
+		<val lang="CN">学生已成功添加！</val>
+		<val lang="KR">학생이 성공적으로 추가되었습니다!</val>
+	</key>
+	<key value="confirmDialog">
+		<val lang="ENG">Are you sure?</val>
+		<val lang="CN">你确定吗？</val>
+		<val lang="KR">확실합니까?</val>
+	</key>
+	<key value="typeNameFaculty">
+		<val lang="ENG">Type the name of the faculty:</val>
+		<val lang="CN">输入院系名称：</val>
+		<val lang="KR">학과 이름을 입력하세요:</val>
+	</key>
+	<key value="emptyNameFaculty">
+		<val lang="ENG">The faculty hasn't been added! Please type a name for it!</val>
+		<val lang="CN">院系尚未添加！请为其输入名称！</val>
+		<val lang="KR">학과가 추가되지 않았습니다! 이름을 입력하세요!</val>
+	</key>
+	<key value="facultyAlreadyExists">
+		<val lang="ENG">The faculty hasn't been added! The faculty already exists!</val>
+		<val lang="CN">院系尚未添加！院系已存在！</val>
+		<val lang="KR">학과가 추가되지 않았습니다! 학과가 이미 존재합니다!</val>
+	</key>
+	<key value="facultySuccessfullyAdded">
+		<val lang="ENG">The faculty has been successfully added!</val>
+		<val lang="CN">院系已成功添加！</val>
+		<val lang="KR">학과가 성공적으로 추가되었습니다!</val>
+	</key>
+	<key value="facultyNotAdded">
+		<val lang="ENG">The faculty hasn't been added! Try again!</val>
+		<val lang="CN">院系尚未添加！请重试！</val>
+		<val lang="KR">학과가 추가되지 않았습니다! 다시 시도하세요!</val>
+	</key>
+	<key value="cannotAddCourse">
+		<val lang="ENG">You can't add a course! Add a faculty first</val>
+		<val lang="CN">您无法添加课程！先添加一个院系</val>
+		<val lang="KR">코스를 추가할 수 없습니다! 먼저 학과를 추가하세요</val>
+	</key>
+	<key value="typeNameCourse">
+		<val lang="ENG">Type the name of the course:</val>
+		<val lang="CN">输入课程名称：</val>
+		<val lang="KR">코스 이름을 입력하세요:</val>
+	</key>
+	<key value="emptyNameCourse">
+		<val lang="ENG">The course hasn't been added! Please type a name for it!</val>
+		<val lang="CN">课程尚未添加！请为其输入名称！</val>
+		<val lang="KR">코스가 추가되지 않았습니다! 이름을 입력하세요!</val>
+	</key>
+	<key value="chooseFaculty">
+		<val lang="ENG">Choose the faculty for the course</val>
+		<val lang="CN">选择课程的院系</val>
+		<val lang="KR">코스를 위한 학과 선택</val>
+	</key>
+	<key value="courseNotAddedNoFaculty">
+		<val lang="ENG">The course hasn't been added! Please select a faculty for it or add a new one!</val>
+		<val lang="CN">课程尚未添加！请选择一个院系或添加一个新的！</val>
+		<val lang="KR">코스가 추가되지 않았습니다! 그것을 위한 학과를 선택하거나 새로운 것을 추가하세요!</val>
+	</key>
+	<key value="courseTypeDuration">
+		<val lang="ENG">Type the duration of the course(months)</val>
+		<val lang="CN">输入课程持续时间（月）</val>
+		<val lang="KR">코스 기간을 입력하세요(월)</val>
+	</key>
+	<key value="courseNotAddedNoDuration">
+		<val lang="ENG">The course hasn't been added! Please type the duration of the course without using other characters than digits!</val>
+		<val lang="CN">课程尚未添加！请输入课程的持续时间，不要使用除数字以外的其他字符！</val>
+		<val lang="KR">코스가 추가되지 않았습니다! 다른 문자를 사용하지 않고 코스의 기간을 입력하세요!</val>
+	</key>
+	<key value="courseAlreadyExists">
+		<val lang="ENG">The course hasn't been added! The course already exists!</val>
+		<val lang="CN">课程尚未添加！课程已经存在！</val>
+		<val lang="KR">코스가 추가되지 않았습니다! 코스가 이미 존재합니다!</val>
+	</key>
+	<key value="courseSuccessfullyAdded">
+		<val lang="ENG">The course has been successfully added!</val>
+		<val lang="CN">课程已成功添加！</val>
+		<val lang="KR">코스가 성공적으로 추가되었습니다!</val>
+	</key>
+	<key value="courseNotAdded">
+		<val lang="ENG">The course hasn't been added! Try again!</val>
+		<val lang="CN">课程尚未添加！请重试！</val>
+		<val lang="KR">코스가 추가되지 않았습니다! 다시 시도하세요!</val>
+	</key>
+	<key value="chooseFacultyDelete">
+		<val lang="ENG">Choose the faculty to delete</val>
+		<val lang="CN">选择要删除的院系</val>
+		<val lang="KR">삭제할 학과를 선택하세요</val>
+	</key>
+	<key value="chooseCourseDelete">
+		<val lang="ENG">Choose the course to delete</val>
+		<val lang="CN">选择要删除的课程</val>
+		<val lang="KR">삭제할 코스를 선택하세요</val>
+	</key>
+	<key value="facultyDeleted">
+		<val lang="ENG">The faculty has been deleted successfully!</val>
+		<val lang="CN">院系已成功删除！</val>
+		<val lang="KR">학과가 성공적으로 삭제되었습니다!</val>
+	</key>
+	<key value="courseDeleted">
+		<val lang="ENG">The course has been deleted successfully!</val>
+		<val lang="CN">课程已成功删除！</val>
+		<val lang="KR">코스가 성공적으로 삭제되었습니다!</val>
+	</key>
+	<key value="deleteFacultyWithCourses">
+		<val lang="ENG">You can't delete a faculty that has courses! Do you wish to delete all the courses and students attending these courses in that faculty?</val>
+		<val lang="CN">您无法删除有课程的院系！您希望删除院系中所有参加这些课程的课程和学生吗？</val>
+		<val lang="KR">코스가 있는 학과를 삭제할 수 없습니다! 해당 학과의 모든 코스와 해당 학과의 학생을 삭제하시겠습니까?</val>
+	</key>
+	<key value="coursesFromFacultySuccessfullyDeleted">
+		<val lang="ENG">The courses and the students in the faculty have been deleted successfully!</val>
+		<val lang="CN">院系中的课程和学生已成功删除！</val>
+		<val lang="KR">학과의 코스와 학생이 성공적으로 삭제되었습니다!</val>
+	</key>
+	<key value="deleteCourseWithStudents">
+		<val lang="ENG">You can't delete a course that has students! Do you wish to delete all the students attending this course?</val>
+		<val lang="CN">您无法删除有学生的课程！您希望删除参加这门课程的所有学生吗？</val>
+		<val lang="KR">학생이 있는 코스를 삭제할 수 없습니다! 이 코스를 수강하는 모든 학생을 삭제하시겠습니까?</val>
+	</key>
+	<key value="studentsFromCourseSuccessfullyDeleted">
+		<val lang="ENG">The students from the course have been deleted successfully!</val>
+		<val lang="CN">课程中的学生已成功删除！</val>
+		<val lang="KR">코스의 학생이 성공적으로 삭제되었습니다!</val>
+	</key>
+	<key value="noCoursesInFaculty">
+		<val lang="ENG">There are no courses in the selected faculty!</val>
+		<val lang="CN">选定的院系中没有课程！</val>
+		<val lang="KR">선택한 학과에 코스가 없습니다!</val>
+	</key>
+	<key value="noStudentsInCourse">
+		<val lang="ENG">There are no students in the selected course!</val>
+		<val lang="CN">选定的课程中没有学生！</val>
+		<val lang="KR">선택한 코스에 학생이 없습니다!</val>
+	</key>
+	<key value="facultyRequired">
+		<val lang="ENG">Faculty is required!</val>
+		<val lang="CN">需要院系！</val>
+		<val lang="KR">학과가 필요합니다!</val>
+	</key>
+	<key value="courseRequired">
+		<val lang="ENG">Course is required!</val>
+		<val lang="CN">需要课程！</val>
+		<val lang="KR">코스가 필요합니다!</val>
+	</key>
+</translation>
